@@ -65,7 +65,7 @@ Currently exploring agentic workflows and retrieval-augmented generation.
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shrijita24?theme=dark&font=baloo2&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Shrijita_b?theme=dark&font=baloo2&ext=heatmap" />
 </p>
 
 ---
