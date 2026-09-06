@@ -20,7 +20,7 @@ Currently exploring agentic workflows and retrieval-augmented generation.
 ### 🔭 What I'm working on
 
 - 🧠 **[ContextCore](https://github.com/shrijita24/ContextCore)** — RAG-based claim verification system using LangChain, ChromaDB, and LLM-as-judge architecture
-- 📚 **[LumenNotes](https://lumennotes.streamlit.app/)** — AI-powered reading journal with GPT-4 integration, live in production
+- 📚 **[LumenNotes](https://lumennotes.streamlit.app/)** — AI-powered reading journal with Groq-powered insights, live in production
 - 🤖 Currently deepening my work in LLM post-training (RLHF) and retrieval-augmented generation
 
 ### ⚡ Recent Experience
